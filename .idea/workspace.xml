@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12bb3e4b-6fc1-4679-b29f-99d1cf58e004" name="Changes" comment="&quot;first commit before refactoring&quot;">
+    <list default="true" id="12bb3e4b-6fc1-4679-b29f-99d1cf58e004" name="Changes" comment="&quot;first commit before refactoring code&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/mortgagecalculator/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mortgagecalculator/MortgageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mortgagecalculator/MortgageReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mortgagecalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mortgagecalculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GXmxi91htHX7OhwV0YJ4DhigwL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +52,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.mortgagecalculator.MortgageCalculator" />
+      <recent name="com.mortgagecalculator.MortgageReport" />
+      <recent name="com.mortgagecalculator.Console" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666543553543</updated>
       <workItem from="1666543556080" duration="168000" />
-      <workItem from="1666545253429" duration="402000" />
+      <workItem from="1666545253429" duration="5287000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;first commit before refactoring&quot;">
       <created>1666545345566</created>
@@ -64,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666545345566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;first commit before refactoring code&quot;">
+      <created>1666546274576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666546274576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;first commit before refactoring&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit before refactoring&quot;" />
+    <MESSAGE value="&quot;first commit before refactoring code&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit before refactoring code&quot;" />
   </component>
 </project>
